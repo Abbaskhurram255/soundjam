@@ -1,1 +1,1 @@
-> A project I built the other day when I fell in love with HTML5 Canvas
+A project I built the other day when I fell in love with HTML5 Canvas
